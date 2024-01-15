@@ -8,7 +8,7 @@
 
 ## 获取
 
-从仓库[kernel-release]获取最新版本的内核源码或可运行的内核镜像。
+从仓库[kernel-release](https://github.com/metaverse-kernel/kernel-release.git)获取最新版本的内核源码或可运行的内核镜像。
 
 编译组织中的其它项目使其支持unix工具链、GNU工具链以及llvm工具链等。
 
