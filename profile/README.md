@@ -1,5 +1,7 @@
 # Metaverse
 
+![logo](https://avatars.githubusercontent.com/u/156706034?s=400&u=d971c0c8990c8c49ff4863e2366ecbebc00cf9ae&v=4)
+
 重新构思、不同于类unix内核的现代微内核操作系统。
 
 原生rust支持。
